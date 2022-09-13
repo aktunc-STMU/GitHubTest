@@ -1,4 +1,4 @@
-import javax.swing.JOptionPane;
+import javax.swing.JOptionPane;  //use autoformat for your programs, Ctrl+Shift+F in Eclipse
 public class Circle {
  public static void main(String[] args) {
 String input;
