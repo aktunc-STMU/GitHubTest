@@ -2,6 +2,7 @@
 public class EngStudent extends Student {
 	
 	Grade grade;
+int id;
 
 	public EngStudent(int id, String name, Grade grade) {
 		super(id, name);
